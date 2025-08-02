@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"os"
-	"practice/gocast/todo-cli/internal/model"
+	"practice/gocast/todo-cli/server/model"
 	"strings"
 	"sync"
 )

@@ -1,6 +1,6 @@
 package store
 
-import "practice/gocast/todo-cli/internal/model"
+import "practice/gocast/todo-cli/server/model"
 
 type TaskStore interface {
 	Create(task *model.Task) error

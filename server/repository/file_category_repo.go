@@ -3,7 +3,7 @@ package repository
 import (
 	"encoding/json"
 	"os"
-	"practice/gocast/todo-cli/internal/model"
+	"practice/gocast/todo-cli/server/model"
 	"strings"
 	"sync"
 )

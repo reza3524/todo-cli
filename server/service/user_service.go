@@ -2,9 +2,9 @@ package service
 
 import (
 	"errors"
-	"practice/gocast/todo-cli/internal/model"
-	"practice/gocast/todo-cli/internal/security"
-	"practice/gocast/todo-cli/internal/store"
+	"practice/gocast/todo-cli/server/model"
+	"practice/gocast/todo-cli/server/security"
+	"practice/gocast/todo-cli/server/store"
 )
 
 type UserService struct {

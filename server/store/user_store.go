@@ -1,6 +1,6 @@
 package store
 
-import "practice/gocast/todo-cli/internal/model"
+import "practice/gocast/todo-cli/server/model"
 
 type UserStore interface {
 	Create(user *model.User) error

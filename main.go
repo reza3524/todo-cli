@@ -4,9 +4,9 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"practice/gocast/todo-cli/internal/model"
-	"practice/gocast/todo-cli/internal/repository"
-	"practice/gocast/todo-cli/internal/service"
+	"practice/gocast/todo-cli/server/model"
+	"practice/gocast/todo-cli/server/repository"
+	"practice/gocast/todo-cli/server/service"
 	"strconv"
 )
 
